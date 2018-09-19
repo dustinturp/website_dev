@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on GeoSTL</title>
+    <link>http://www.geostl.org/page/</link>
+    <description>Recent content in Pages on GeoSTL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>2018 GeoSTL</copyright>
+    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.geostl.org/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Events</title>
+      <link>http://www.geostl.org/events/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://www.geostl.org/events/</guid>
+      <description>Scheduel of events
+YPG/GeoSTL: Geospatial Tech Talk - October, 15th Description: Looking to learn more about the geospatial world and how you can get involved in the St. Louis area? Join USGIF’s Young Professionals Group and GeoSTL for an evening of learning and networking. Hear from USGIF Board Member Patty Mims and T-REX’s Patty Hagen about both organizations and how they are contributing to the overall geospatial mission in the St.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.geostl.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.geostl.org/about/</guid>
+      <description>We bring together Developers, Geographers, Students, hobbyists, Data scientists, and anyone else regardless of skill level to learn and create maps. We work on group projects in collaboration with regional organizations, field collection, host mapathons, and have networking events. If you would like to host a meeting, present, or bake some cookies, we welcome the opportunity! All skill levels are free to join.</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>http://www.geostl.org/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.geostl.org/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

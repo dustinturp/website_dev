@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on GeoSTL</title>
+    <link>http://www.geostl.org/authors/</link>
+    <description>Recent content in Authors on GeoSTL</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>2018 GeoSTL</copyright>
+    
+	<atom:link href="http://www.geostl.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Derpinturp</title>
+      <link>http://www.geostl.org/authors/derpinturp/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>http://www.geostl.org/authors/derpinturp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
